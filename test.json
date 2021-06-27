@@ -1,0 +1,22 @@
+{
+    "baseAddr": "addr1q8udr3yjsxj24hxugpata455qec06sxd4ag7cgvvz6euslw7jrgsx4e8js7wm8jm320t58pz759sr5pkjte4npus9tfqnx6sgn",
+    "entAddr": "addr1v8udr3yjsxj24hxugpata455qec06sxd4ag7cgvvz6euslgtj0fje",
+    "mnemonic": "pass code until divert ship shuffle dawn power pattern crumble false improve",
+    "derivationPath": "m/44'/1815'/0'/0/0",
+    "rootKey": {
+        "bech32": "xprv1mp7jjhd6x063vvsl2crs222lug5zs6z33rztzyg5k8ey0lupda2nvccv7t2869mr6pj43rwk9968pumuukgun85mfpla6rgg0qkcwr8ll7ze855cp8wedd6m4ph59f6kq00ckrxhk3kp4uz0xxja65afdv7jw85d",
+        "hex": "d87d295dba33f516321f560705295fe22828685188c4b11114b1f247ff816f5536630cf2d47d1763d065588dd6297470f37ce591c99e9b487fdd0d08782d870cffff8593d29809dd96b75ba86f42a75603df8b0cd7b46c1af04f31a5dd53a96b"
+    },
+    "accountKey": {
+        "bech32": "xprv1hr2lgcdxkpdrwlmet7v7w6snrt8nw3py30aj4mc3m4ecjrvzda2suvl0meec4ncqcg384ma72c3yp0p8jplkywxrqs9d30mga24g5y3a0nc67g569smw7xx70w5td6n3azx0rfee67x9cc0pqf862la9mgmrkfq8",
+        "hex": "b8d5f461a6b05a377f795f99e76a131acf3744248bfb2aef11dd73890d826f550e33efde738acf00c2227aefbe562240bc27907f6238c3040ad8bf68eaaa8a123d7cf1af229a2c36ef18de7ba8b6ea71e88cf1a739d78c5c61e1024fa57fa5da"
+    },
+    "stakeKey": {
+        "bech32": "xpub13djxgyks3k5hx08w3xe9r9dmgkvq3cuq8cgq4durl6u30yzt05el5fs2ew5kn43a80z9uqpe6ea475qne9ja0s2p5exmsvpvqk2zdsqqlk9zz",
+        "hex": "8b646412d08da9733cee89b25195bb459808e3803e100ab783feb917904b7d33fa260acba969d63d3bc45e0039d67b5f5013c965d7c141a64db8302c059426c0"
+    },
+    "extendedPublicKey": {
+        "bech32": "xpub12wl8uvdz8xxnt23xqzj7jddme563ul2kdwhytp5jgk0ledt3yp5mwa7sztrl7gersh0yrwtwzh3ycxawhhp8vuxt480yl39mutdj83c60zqh5",
+        "hex": "53be7e31a2398d35aa2600a5e935bbcd351e7d566bae458692459ffcb5712069b777d012c7ff232385de41b96e15e24c1baebdc27670cba9de4fc4bbe2db23c7"
+    }
+}

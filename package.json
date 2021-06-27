@@ -1,0 +1,12 @@
+{
+  "name": "exodus-example",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-nodejs": "^7.1.0",
+    "bip39": "^3.0.4",
+    "buffer": "^6.0.3"
+  }
+}
